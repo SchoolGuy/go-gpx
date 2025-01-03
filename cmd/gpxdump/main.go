@@ -21,7 +21,7 @@ func dumpFile(filename string) error {
 }
 
 func dump(r io.Reader) error {
-	g, err := gpx.Read(r)
+	g, err := gpx.Read(r, gpx.WithTimeLayout("2006-01-02T15:04:05"))
 	if err != nil {
 		return err
 	}

@@ -21,6 +21,7 @@ const (
 )
 
 var timeLayout = time.RFC3339Nano
+var withAny = false
 
 // StartElement is the XML start element for GPX files.
 var StartElement = xml.StartElement{
@@ -53,6 +54,22 @@ type ExtensionsType struct {
 	XML []byte `xml:",innerxml"`
 }
 
+// https://stackoverflow.com/a/30257684/4730773
+
+type Node struct {
+	XMLName xml.Name
+	Attrs   []xml.Attr `xml:",any,attr"`
+	Content []byte     `xml:",innerxml"`
+	Nodes   []Node     `xml:",any"`
+}
+
+func (n *Node) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
+	n.Attrs = start.Attr
+	type node Node
+
+	return d.DecodeElement((*node)(n), &start)
+}
+
 // A GPX is a gpxType.
 type GPX struct {
 	XMLName            string            `xml:"gpx"`
@@ -65,6 +82,7 @@ type GPX struct {
 	Rte                []*RteType        `xml:"rte,omitempty"`
 	Trk                []*TrkType        `xml:"trk,omitempty"`
 	Extensions         *ExtensionsType   `xml:"extensions,omitempty"`
+	Any                []Node            `xml:",any"`
 }
 
 // A LinkType is a linkType.
@@ -157,6 +175,7 @@ type WptType struct {
 	AgeOfDGPSData float64         `xml:"ageofdgpsdata,omitempty"`
 	DGPSID        []int           `xml:"dgpsid,omitempty"`
 	Extensions    *ExtensionsType `xml:"extensions,omitempty"`
+	Any           []Node          `xml:"any"`
 }
 
 // UnmarshalXML implements xml.Unmarshaler.UnmarshalXML.
@@ -208,6 +227,12 @@ func Read(r io.Reader, options ...ReadOption) (*GPX, error) {
 func WithTimeLayout(layout string) ReadOption {
 	return func() {
 		timeLayout = layout
+	}
+}
+
+func WithAny(any bool) ReadOption {
+	return func() {
+		withAny = any
 	}
 }
 
@@ -476,6 +501,7 @@ func (w *WptType) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
 		AgeOfDGPSData float64         `xml:"ageofdgpsdata"`
 		DGPSID        []int           `xml:"dgpsid"`
 		Extensions    *ExtensionsType `xml:"extensions"`
+		Any           []Node          `xml:",any"`
 	}
 	if err := d.DecodeElement(&e, &start); err != nil {
 		return err
@@ -503,6 +529,9 @@ func (w *WptType) UnmarshalXML(d *xml.Decoder, start xml.StartElement) error {
 		AgeOfDGPSData: e.AgeOfDGPSData,
 		DGPSID:        e.DGPSID,
 		Extensions:    e.Extensions,
+	}
+	if withAny {
+		wt.Any = e.Any
 	}
 	if e.Time != "" {
 		t, err := time.ParseInLocation(timeLayout, e.Time, time.UTC)

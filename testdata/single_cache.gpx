@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" creator="Groundspeak, Inc. All Rights Reserved. http://www.groundspeak.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0/1 http://www.groundspeak.com/cache/1/0/1/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+  <name>Cache Listing Generated from Geocaching.com</name>
+  <desc>This is an individual cache generated from Geocaching.com</desc>
+  <author>Account "Gatarron" From Geocaching.com</author>
+  <email>contact@geocaching.com</email>
+  <url>https://www.geocaching.com</url>
+  <urlname>Geocaching - High Tech Treasure Hunting</urlname>
+  <time>2025-01-03T16:40:22.4437001Z</time>
+  <keywords>cache, geocache</keywords>
+  <bounds minlat="14.915971" minlon="-23.510167" maxlat="14.9164" maxlon="-23.509605" />
+  <wpt lat="14.9164" lon="-23.510167">
+    <time>2018-12-18T00:00:00</time>
+    <name>GC81ZAT</name>
+    <desc>Prismas do Plateau by Gatarron, Earthcache (1.5/1.5)</desc>
+    <url>https://www.geocaching.com/geocache/GC81ZAT</url>
+    <urlname>Prismas do Plateau</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Earthcache</type>
+    <groundspeak:cache id="7036004" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+      <groundspeak:name>Prismas do Plateau</groundspeak:name>
+      <groundspeak:placed_by>Gatarron</groundspeak:placed_by>
+      <groundspeak:owner id="10723643">Gatarron</groundspeak:owner>
+      <groundspeak:type>Earthcache</groundspeak:type>
+      <groundspeak:container>Other</groundspeak:container>
+      <groundspeak:attributes>
+        <groundspeak:attribute id="14" inc="0">Recommended at night</groundspeak:attribute>
+        <groundspeak:attribute id="8" inc="1">Scenic view</groundspeak:attribute>
+        <groundspeak:attribute id="59" inc="1">Food nearby</groundspeak:attribute>
+        <groundspeak:attribute id="63" inc="1">Recommended for tourists</groundspeak:attribute>
+      </groundspeak:attributes>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Cabo Verde</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="True">
+</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p style="text-align:center;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;&lt;img src="https://img.geocaching.com/cache/0fccbfe6-46c4-45a8-9071-91f13f4a0941.jpg?rnd=0.319753" alt /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;&lt;span style="font-size:14pt;"&gt;&lt;strong&gt;&lt;span style="font-family:helvetica;"&gt;&lt;span style="font-family:helvetica;font-size:14pt;"&gt;O Plateau da Cidade da Praia&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;No alto de um planalto de rocha basáltica que assomou à superfície durante as erupções vulcânicas que deram origem à Ilha de Santiago, ergue-se o Plateau (palavra francesa para planalto) onde se situa o centro histórico da Cidade da Praia. Aqui se formou, a partir de 1615, o povoado que daria origem à vila de Praia de Santa Maria da Vitória, desenvolvendo-se a partir de um porto clandestino devido à sua privilegiada posição geográfica, até substituir definitivamente Ribeira Grande de Santiago como capital de Cabo Verde, em 1770.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;É o centro histórico, administrativo e cultural da Cidade da Praia, o espaço nobre por excelência, desenvolvendo-se à volta da Praça Alexandre Albuquerque e da Igreja Matriz e ao longo da Rua Pedonal. Noutros tempos, para frequentar estes espaços era necessário usar fato domingueiro, e era proibido andar descalço. Hoje, apesar de já não existem as mesmas exigências de indumentária, o Plateau continua a ser o coração da cidade, e o seu salão de visitas.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;em&gt;&lt;span style="font-size:11pt;font-family:calibri, sans-serif;"&gt;&lt;strong&gt;&lt;img src="http://www.geocachingpt.com/geocaching_tools/listing_template/en.png" width="18" height="18" /&gt; &lt;/strong&gt;The Plateau is the historic centre of Praia, and the most illustrious area of the city. It was here that the first settling was established in 1615, of what would be the future capital of the Island of Santiago, replacing Ribeira Grande de Santiago in that capacity, in 1770.&lt;/span&gt;&lt;/em&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;em&gt;&lt;span style="font-size:11pt;font-family:calibri, sans-serif;"&gt;Plateau was formed by the magma that came to the surface in the form of basaltic rock at the time of the vulcanic eruptions that were at the origin of the Island of Santiago.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt; &lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;span style="font-size:14pt;"&gt;&lt;strong&gt;&lt;span style="font-family:helvetica;"&gt;Magma e lava&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;O magma é o sangue que corre nas entranhas da Terra e o transforma. Os movimentos do magma são responsáveis por alterações à superfície, e o seu arrefecimento, seja no interior da terra, seja à superfície (onde passa a designar-se lava, e não magma) dá origem, direta ou indiretamente, a muitas das rochas que constituem o planeta, e que podemos encontrar, seja à superfície, seja escavando um pouco.&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="font-family:calibri, sans-serif;"&gt;As rochas que resultam do arrefecimento do magma designam-se &lt;em&gt;&lt;strong&gt;rochas ígneas&lt;/strong&gt;&lt;/em&gt;, e podem ser &lt;strong&gt;intrusivas&lt;/strong&gt; quando se formam no interior da Terra, ou &lt;strong&gt;extrusivas&lt;/strong&gt;, quando se formam no exterior, à superfície.&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="font-family:calibri, sans-serif;"&gt;Nas &lt;strong&gt;rochas intrusivas&lt;/strong&gt;, como o granito, o arrefecimento é demorado, permitindo a formação de cristais visíveis a olho nú (rochas faneríticas). Nas &lt;strong&gt;rochas extrusivas&lt;/strong&gt;, como o basalto, o arrefecimento é mais rápido, dificultando a formação de cristais, que não são visíveis a olho nú (rochas afaníticas).&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;em&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;Magma is the blood that flows on the guts of the Earth, responsible for its vitality and permanent change. The flowing of magma causes transformation at the surface, and when it cools, either inside the earth or at the surface (where it is called lava), it originates, directly or indirectly, many of the rocks that form the planet, and that can be found, at the surface or digging a little.&lt;/span&gt;&lt;/em&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;em&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;Rocks originating from the cooling of magma are called igneous rocks, and can either be intrusive, if formed inside the Earth, or extrusive, when formed outside, at the surface.&lt;/span&gt;&lt;/em&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;em&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;In intrusive rocks, such as granite, cooling is slow, allowing for the formation of crystals to that are visible at the naked eye (faneritic rocks). In extrusive rocks, such as basalt, cooling happens more quickly, so it is harder to see any crystals (afanitic rocks).&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt; &lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;strong&gt;&lt;span style="font-family:helvetica;font-size:14pt;"&gt;Basalto&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="font-family:calibri, sans-serif;"&gt;O basalto é a principal rocha extrusiva formada a partir da lava ou do magma, à superfície ou muito perto dela. A aparência do basalto varia consoante a velocidade de arrefecimento, a composição química do magma, nomeadamente a quantidade de sílica presente, e a quantidade de gases dissolvidos. De entre estes fatores, a &lt;strong&gt;velocidade de arrefecimento do magma&lt;/strong&gt; é o mais decisivo para determinar a textura da rocha, bem como o seu aspeto geral.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;em&gt;&lt;span style="font-family:calibri, sans-serif;font-size:11pt;"&gt;&lt;span style="font-family:Calibri;color:#111111;background-color:transparent;font-weight:400;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;"&gt;Basalt is the main extrusive rock formed at the surface or very close to it. The appearance of basalt varies according with the speed of cooling, the chemical composition of melt, namely the amount of silica, and the amount of dissolved gases. Of these factors,&lt;/span&gt; &lt;strong&gt;&lt;span style="font-family:Calibri;color:#111111;background-color:transparent;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;"&gt;the speed of cooling of melt&lt;/span&gt;&lt;/strong&gt; &lt;span style="font-family:Calibri;color:#111111;background-color:transparent;font-weight:400;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;"&gt;is the most decisive to determine the texture of the rock, as well as its general aspect.&lt;/span&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;img src="https://img.geocaching.com/cache/large/b10a61b4-3be4-415f-b4d4-613759192d55.jpg" alt style="display:block;margin-left:auto;margin-right:auto;" /&gt;&lt;span style="font-family:arial, helvetica, sans-serif;font-size:8pt;"&gt;Tipos de fluxo de lava: 1) Fluxo de lava basáltica incandescente, Hawaii. 2) Biscoitos. 3) Fluxo de lava tipo pahoehoe de solidificação lenta. 4) Lava em almofadas, Islândia. 5) Transição de lava de tipo pahoehoe para lava de tipo aa, Hawaii. 6) Disjunção colunar de basalto, Irlanda do Norte. &lt;/span&gt;&lt;em&gt;&lt;span style="font-family:georgia, palatino;font-size:8pt;"&gt;&lt;span style="font-family:arial, helvetica, sans-serif;"&gt;Fonte: &lt;a href="https://www.sandatlas.org/types-lava-flows/"&gt;https://www.sandatlas.org/types-lava-flows&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;em&gt;&lt;span style="font-size:8pt;font-family:Arial;color:#111111;background-color:transparent;font-weight:400;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;"&gt;1. Red hot basaltic lava flow. Hawaii. 2. Blocky lava. La Palma. 3. Slowly solidifying pahoehoe lava flow. Hawaii. 4. Pillow lava. Iceland. 5. Transition from smooth pahoehoe to rubbly aa. Hawaii. 6. Columnar lava. Northern Ireland.&lt;/span&gt;&lt;/em&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="font-family:calibri, sans-serif;"&gt;De entre as várias formas de apresentação do basalto, uma das mais curiosas é a &lt;strong&gt;disjunção prismática&lt;/strong&gt;, ou &lt;strong&gt;disjunção colunar&lt;/strong&gt;. Esta é a designação dada a grandes prismas de rocha separadas por diaclases paralelas que se formam em resultado das tensões geradas durante o processo de arrefecimento de massas de magma ou lava. Ocorrem exclusivamente em rochas ígneas do tipo vulcânico, sendo mais frequente nos basaltos.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;&lt;em&gt;&lt;span style="font-size:11pt;font-family:calibri, sans-serif;"&gt;&lt;strong&gt;&lt;img src="http://www.geocachingpt.com/geocaching_tools/listing_template/en.png" width="18" height="18" /&gt;&lt;/strong&gt;&lt;/span&gt;Among the several forms in which basalt presents itself, one of the most curious is &lt;strong&gt;columnar jointing&lt;/strong&gt;. Columnar jointing is the name given to large basaltic prisms that are a result of the cracking of the rock when magma or lava (melt) cools. This happens only in igneous rocks, and are more frequent in basalt.&lt;/em&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:center;"&gt;&lt;img src="https://img.geocaching.com/cache/large/2ca2ef75-6c48-497a-afb4-ddc1d6ad7411.jpg" alt width="640" /&gt;&lt;br /&gt;
+&lt;em&gt;&lt;span style="font-family:arial, helvetica, sans-serif;font-size:8pt;"&gt;A Torre do Diabo, Wyoming, Estados Unidos&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align:center;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;&lt;img src="https://img.geocaching.com/cache/large/e873f673-e2a3-4229-994c-46f6fa81126a.jpg" alt width="640" /&gt;&lt;/span&gt;&lt;span style="font-size:8pt;font-family:arial, helvetica, sans-serif;"&gt;&lt;em&gt;Calçada do Gigante, Irlanda do Norte&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:center;"&gt;&lt;span style="font-size:8pt;font-family:arial, helvetica, sans-serif;"&gt;&lt;em&gt;&lt;img src="https://img.geocaching.com/cache/large/4641a819-b14f-42f6-b23b-3de64cde1c99.jpg" alt width="640" height="475" /&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:center;"&gt;&lt;span style="font-size:8pt;font-family:arial, helvetica, sans-serif;"&gt;&lt;em&gt;Gruta de Fingall, Irlanda&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;br /&gt;
+&lt;span style="font-family:calibri, sans-serif;"&gt;Estas formações ocorrem em escoadas lávicas espessas, em lagos de lava ou no material que preenche as chaminés vulcânicas, quando o magma ou a lava arrefecem ao longo de um período de cerca de 100 anos. À escala geológica, é um arrefecimento rápido, embora não instantâneo (como sucede com a lava à superfície). Durante o processo de arrefecimento, o material rochoso resultante da solidificação contrai-se à medida que a massa rochosa perde calor, causando fraturas. O princípio físico é semelhante à fragmentação de lama numa poça quando a água seca.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;&lt;em&gt;These features occur in thick lava flows, in lakes of lava or in volcanic chimneys, whe melt cool along a period of about 100 years. At the geologic scale it is a fast cooling, but not instantaneous, as it happens with lava flowing at the surface or in the sea. During this cooling, the rocky material contracts as it loses heat, causing it to fracture. It is much like as mud cracks when it dries.&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="font-family:calibri, sans-serif;"&gt;A fraturação que ocorre leva a que o material rochoso resultante se organize em colunas uniformes e direitas, perpendiculares à superfície principal de arrefecimento, e estendem-se pela massa rochosa adentro. As colunas podem variar em direcção e em espessura e apresentar diferente número de lados, mais frequentemente de 5 a 7. Os lados tendem a ser perfeitamente paralelos e com secção perfeitamente hexagonal, razão pela qual as colunas de 6 lados são as mais comuns.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;&lt;em&gt;Fracturing causes the rocky material to organize in uniform and straight columns, perpendicularly to the cooling surface. Columns may vary in direction and in thickness and organize themselves in shapes with different number of sides, most frequently from 5 to 7.The sides tend to be perfectly parallel and with an hexagonal shape, which is why hexagonal columns with 6 sides are the most common.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;As colunas apresentam-se em conjuntos. Se estes conjuntos apresentam uma série direita e regular de colunas, são classificados de &lt;strong&gt;colunatas. &lt;/strong&gt;Se as colunas se apresentam com disposição irregular, não direitas, são designadas &lt;strong&gt;entablamento&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;em&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;The columns may form sets. Straight, regular columns are called colonnade. Irregular, fractures columns are called entablature.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align:center;"&gt;&lt;em&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;&lt;img src="https://img.geocaching.com/cache/35662f30-e08c-4a2a-8e9a-c06f23feba6e.jpg?rnd=0.2201837" alt width="460" /&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style="font-size:14pt;"&gt;&lt;strong&gt;&lt;span style="font-family:helvetica;"&gt;Questões&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;No caminho que sobre para o plateau, antes mesmo de chegar lá acima, são visíveis algumas colunas resultantes de disjunção prismática do basalto. Para registares esta earthcache, terás de as observar e enviar-me as respostas às seguintes perguntas:&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;&lt;em&gt;On the way up to plateau, before getting there, some columns resluting from columnar jointing can be seen. To log this earthcache, you must observe the columnar jointing and send me the answers to the following questions:&lt;/em&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;br /&gt;
+&lt;span style="font-family:calibri, sans-serif;"&gt;&lt;span style="font-size:11pt;"&gt;1. Quantos&lt;/span&gt; prismas consegues observar entre o fim da subida e a barreira de cimento branca (considera apenas as que estão perfeitamente formadas)?&lt;/span&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;&lt;em&gt; How many prisms can you see between the end of the road until the white concrete wall (ommly the perfectly formed are to be considered)?&lt;/em&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;2. As colunas apresentam-se em colunata ou em entablamento? &lt;em&gt;Is this set a colonnade or an entablature?&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;3. Quantas faces estão à vista no prisma com maior número de faces visíveis? &lt;/span&gt;&lt;em&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;How many faces are visible in the prism with the most visible faces?&lt;br /&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;4. Na tua opinião, estes prismas resultam de um arrefecimento do magma mais rápido ou mais lento do que o representado na imagem em baixo?&lt;em&gt; In your opinion, these prisms are the result of a cooling slower or faster than the one shown in the picture below?&lt;br /&gt;
+ &lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:center;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;&lt;img src="https://img.geocaching.com/cache/large/16b98afc-3027-4b8c-9952-5cffa516399a.jpg?rnd=0.2747293" alt width="480" height="360" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;5. De entre as três gamas de cor abaixo indicadas, qual é a que se aproxima mais do tom do basalto existente no local? &lt;em&gt;From the three colour ranges shown below, which do you think is closer to the colour range of the basalt here?&lt;br /&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:center;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;&lt;img src="https://img.geocaching.com/cache/large/46678f6c-c051-41d1-876d-6b09a929450f.jpg" alt width="360" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;Podes registar esta earthcache imediatamente &lt;strong&gt;após&lt;/strong&gt; o envio das respostas, sem necessidade de aguardar pela minha validação. Contudo, os registos de found sem que antes tenham sido enviadas as respostas serão &lt;strong&gt;apagados sem qualquer aviso prévio&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;&lt;em&gt;You may log this earthcache immediately &lt;strong&gt;after&lt;/strong&gt; sending me the answers, there’s no need to wait for my validation. However, found logs without the answers having been sent to me priorly &lt;strong&gt;will be deleted without previous notice&lt;/strong&gt;.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:justify;"&gt;&lt;span style="text-decoration:underline;font-family:helvetica;font-size:12pt;"&gt;&lt;strong&gt;Fontes / &lt;em&gt;Sources:&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="line-height:1.7999999999999998;margin-top:0pt;margin-bottom:0pt;text-align:justify;background-color:#ffffff;padding:0pt 7.5pt 0pt 7.5pt;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;&lt;a href="http://volcano.oregonstate.edu/columnar-jointing" style="text-decoration:none;"&gt;&lt;span style="font-size:10pt;color:#1155cc;background-color:transparent;font-weight:400;font-variant:normal;text-decoration:underline;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre-wrap;"&gt;http://volcano.oregonstate.edu/columnar-jointing&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="line-height:1.7999999999999998;margin-top:0pt;margin-bottom:0pt;text-align:justify;background-color:#ffffff;padding:0pt 7.5pt 0pt 7.5pt;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;&lt;a href="https://www.physics.utoronto.ca/~nonlin/pub/goehringPhD_hires.pdf" style="text-decoration:none;"&gt;&lt;span style="font-size:10pt;color:#1155cc;background-color:transparent;font-weight:400;font-variant:normal;text-decoration:underline;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre-wrap;"&gt;https://www.physics.utoronto.ca/~nonlin/pub/goehringPhD_hires.pdf&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="line-height:1.7999999999999998;margin-top:0pt;margin-bottom:0pt;text-align:justify;background-color:#ffffff;padding:0pt 7.5pt 0pt 7.5pt;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;&lt;a href="http://caboverdeonline.com/news/history/22-news/artigos-em-portugues/61-plateau-uma-joia-sobranceira-ao-mar" style="text-decoration:none;"&gt;&lt;span style="font-size:10pt;color:#1155cc;background-color:transparent;font-weight:400;font-variant:normal;text-decoration:underline;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre-wrap;"&gt;http://caboverdeonline.com/news/history/22-news/artigos-em-portugues/61-plateau-uma-joia-sobranceira-ao-mar&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="line-height:1.7999999999999998;margin-top:0pt;margin-bottom:0pt;text-align:justify;background-color:#ffffff;padding:0pt 7.5pt 0pt 7.5pt;"&gt;&lt;span style="font-family:calibri, sans-serif;"&gt;&lt;a href="http://www.geologyin.com/2018/04/new-insight-into-how-giants-causeway.html" style="text-decoration:none;"&gt;&lt;span style="font-size:10pt;color:#1155cc;background-color:transparent;font-weight:400;font-variant:normal;text-decoration:underline;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre-wrap;"&gt;http://www.geologyin.com/2018/04/new-insight-into-how-giants-causeway.html&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://info.flagcounter.com/xfkJ"&gt;&lt;img src="https://s01.flagcounter.com/count2/xfkJ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_18/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0" style="display:block;margin-left:auto;margin-right:auto;" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;R081ZAT - Miradouro&lt;br /&gt;N 14° 54.958 W 023° 30.576&lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>[PT] Por baixo do restaurante.
+[EN] Under the restaurant.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="1274851272">
+          <groundspeak:date>2024-12-28T04:45:40Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3131629">jawei</groundspeak:finder>
+          <groundspeak:text encoded="False">I went for a little walk in the capital today, on my extended layover from Sal to Fogo.
+Thanks for this Earthcache! </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1274829728">
+          <groundspeak:date>2024-12-28T02:26:49Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="29927465">Bertmena</groundspeak:finder>
+          <groundspeak:text encoded="False">Vandaag bezochten we Praia en hebben deze bijzondere plek opgezocht. Basalt blijft interessant. Over de vragen hebben we best lang nagedacht. Het resultaat is opgestuurd. Met vriendelijke groeten uit Nijmegen/Nederland.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1274881793">
+          <groundspeak:date>2024-12-23T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1410818">henni-boy</groundspeak:finder>
+          <groundspeak:text encoded="False">Danke für das Zeigen von diesem interessanten Ort.
+Und wieder etwas gelernt, so wie es bei einem earthcache sein soll!
+
+TFTC!
+***henni-boy.***
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1274196975">
+          <groundspeak:date>2024-12-22T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="11394604">FabPat37</groundspeak:finder>
+          <groundspeak:text encoded="False">Départ samedi de Paris Orly.
+Escale Lisbonne 
+Arrivé à Praia samedi minuit.
+Ce matin à la fraîche avant de partir Tarrafal, on relèveles indices. 
+MPLC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1273756415">
+          <groundspeak:date>2024-12-17T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="8929500">gehscheiß</groundspeak:finder>
+          <groundspeak:text encoded="False">Today Horn and gehscheiß visited the capital of this wonderful country and will have got some ice cream. Thank you!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1273363566">
+          <groundspeak:date>2024-12-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="6424310">Mauselteam</groundspeak:finder>
+          <groundspeak:text encoded="False">We have been at the earthcache in November 2024, but for sending the answers, we had no internet. But meanwhile we sent the answers to the owner.
+It was very interesting to care about the prismas; thanks for that !
+# 13.422 - Mauselteam, 06.11.2024</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1273596653">
+          <groundspeak:date>2024-12-10T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1496518">Raffiki10</groundspeak:finder>
+          <groundspeak:text encoded="False">On our first day in Capo Verde we took a walk to the plateau and saw the (Earth)cache of Santagio
+Interesting facts about rocks!
+
+TFTC #125</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1273123185">
+          <groundspeak:date>2024-12-10T00:30:49Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="11471590">Freddy Bear</groundspeak:finder>
+          <groundspeak:text encoded="False">Found on 4th December. Caching with Deviantbeetroot whilst visiting Praia from our cruise ship. Answers sent to cache owner as required. 
+Thanks for creating this interesting Earthcache 🙂</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1273000278">
+          <groundspeak:date>2024-12-08T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="14352682">wildrover04</groundspeak:finder>
+          <groundspeak:text encoded="False">An interesting city to visit. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1273662278">
+          <groundspeak:date>2024-12-05T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3467805">Lizard!</groundspeak:finder>
+          <groundspeak:text encoded="False">Visited together with *Betty B.* on our tour around the island.
+
+TFTC Lizard</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1273662086">
+          <groundspeak:date>2024-12-05T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="4749045">Betty B.</groundspeak:finder>
+          <groundspeak:text encoded="False">Der letzte Stopp unserer Kreuzfahrt brachte uns heute nach Praia und rund über die wunderschöne Insel Santiago. Vielen Dank für Zeigen und TFTC! [:)]
+
+The last stop of our cruise today took us to Praia and around the beautiful island of Santiago. Thanks for showing us and TFTC! [:)]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1273599425">
+          <groundspeak:date>2024-12-05T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1919257">VogelCitybird</groundspeak:finder>
+          <groundspeak:text encoded="False">Greetings from Germany
+
+VogelCitybird &amp; Nadine</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1272657840">
+          <groundspeak:date>2024-12-04T22:39:48Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="11464578">deviantbeetroot</groundspeak:finder>
+          <groundspeak:text encoded="False">Visiting Praia today (Monday 2nd) on cruise ship Bolette. After a trip to various beaches around the island in the morning, we headed into town to see the market and grab this Earthcache. Thank you for owning this cache 😊</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1273352231">
+          <groundspeak:date>2024-11-29T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2088073">Capitao Fantasma</groundspeak:finder>
+          <groundspeak:text encoded="False">Num treino de corrida com 2 colegas, um pequeno desvio para fazer esta cache.
+Obrigado pela liçao.
+OPC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1271008949">
+          <groundspeak:date>2024-11-17T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2205452">montarnis</groundspeak:finder>
+          <groundspeak:text encoded="False">Thanks for the Earthcache. Our First Cache in Cabo Verde 😃👍🏻
+
+Greetings from Germany</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1274193545">
+          <groundspeak:date>2024-11-16T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="14924299">KRO_MAX</groundspeak:finder>
+          <groundspeak:text encoded="False">Logged as Kro❤️Max. Thanks to the Owner for dropping, nursing and care.
+Geloggt als Kro❤Max. Danke an den Owner fürs Auslegen, Hegen und Pflegen 
+🇦🇹🇦🇹🇦🇹</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1273007010">
+          <groundspeak:date>2024-11-16T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3857532">Sunflower74</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute ging es zusammen mit Oliver535i  und DAKA2 nach Praia um auch diesen Earth Cache zu besuchen. 
+Die Fragen konnten gut beantwortet werden und wurden schon mit Bildern von Oliver535i geschickt. 
+Danke sagt Sunflower74</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1272325432">
+          <groundspeak:date>2024-11-16T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2594216">Oliver535i</groundspeak:finder>
+          <groundspeak:text encoded="False">&gt;Diesen Cache habe ich heute auf unserer Urlaubstour zusammen 
+&gt;mit meiner Frau Sunflower74 und unseren Freunden DAKA 2 besucht 
+&gt;und geloggt.
+
+&gt;In:    -------
+&gt;Out: Spaß
+
+
+&gt;Passt auf Euch auf und bleibt Gesund. 😉😉😉
+
+
+&gt;Und weiter geht die wilde Fahrt 🎢.
+
+
+&gt;Vielen Dank für den Cache, fürs verstecken und herführen, sowie 
+&gt;einen Gruß an den Owner, sendet Oliver535i aus Gevelsberg. 
+&gt;(die Stadt mit der schrägsten Kirmes 🎡 Europas)
+
+
+´✫¸.•°*”˜˜”
+..✫¸.•°*”˜˜”*°•.✫
+☻/ღ˚ •。 * ♥♥ ˚ ˚✰˚ ˛ ★* 。 ღ˛° 。 * ° ♥ ˚ • ★ ˚ . ღ
+/▌*˛ ˚ ░ ░ ٌٌٌ ♥ * Ich liebe Geocaching ˚ *
+/ ˚. ★ ˛ ˚♥♥ ✰ 。˚ ˚ ღ 。 ˛ ˚ ♥♥ 。✰ ˚ * ˚ ★ ღ ˚ 。✰ •* ˚ ♥♥"
+
+
+&gt;Cache Nr. 16364 davon 3295 Lab Caches, 4 Benchmarks
+&gt;und (32 Waymarks)
+
+
+………………………………………………………….
+..................................................................
+..........................Discover me..................
+......O..............@......................@.............. 
+......L.............@@...................@@............ 
+......I............@@......................@@........... 
+......V...........@@.......................@@..........  
+......E..........@@.........................@@......... 
+......R..........@@..........................@@........
+......5.........@@....@@@@@@....@@....... 
+......3..........@@.@@@@@@@.@@......... 
+......5...........@@@@@@@@@@@.......... 
+......I..........@@@@@@@@@@@@........ 
+...................@@@@@@@@@@@.......... 
+......S............@@@@@@@@@@............
+......A............@@@@@@@@@@............  
+......G..............@@@@@@@@@............. 
+…...T.............@@@@@@@@@@............ 
+…................@@@@@@@@@@@.......... 
+......T..........@@@@@@@@@@@@........
+......F.........@@@@@@@@@@@@@......  
+......T........@@@@@@@@@@@@@....... 
+......C.........@@..@@@@@@@..@@........ 
+..................@@.......@@@@.....@@.........
+..…..............@@........................@@..........
+...…..............@@......................@@........... 
+......…............@@....................@@............ 
+............…........@@.................@@............. 
+............…..........@....................@...............
+...............…..............JTZ44V.......................
+...................................................................</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1270811107">
+          <groundspeak:date>2024-11-16T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2287814">SEUL</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute haben wir auf unser Kreuzfahrt den wunderbaren Stopp auf den Kapverden. Wir waren sehr neugierig auf diese Inselgruppe und hatten lange auf diesen Tag hingefiebert.
+Zu diesen Caches waren wir gemeinsam mit B&amp;B unterwegs.
+Die Antworten haben wir bereits an den Owner gesendet. Die Aussicht von hier ist wunderbar.
+
+Besonderen Dank sagt SEUL 
+
+
+
+Translated online
+Hoje temos uma paragem maravilhosa no nosso cruzeiro em Cabo Verde.  Estávamos muito curiosos sobre este grupo de ilhas e já ansiamos por este dia há muito tempo.
+ Viajámos até estas caches juntamente com o B&amp;B.
+ Já enviámos as respostas ao proprietário.  A vista daqui é maravilhosa.
+
+ Agradecimentos diz SEUL</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="1271269067">
+          <groundspeak:date>2024-11-04T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="9301781">Adam1947</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute mit Adam1950 diesen Cache aufgesucht. Die Antworten wurden von Adam1950 geschickt. Danke</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  <wpt lat="14.915971" lon="-23.509605">
+    <time>2019-01-01T13:38:17.383</time>
+    <name>R081ZAT</name>
+    <cmt />
+    <desc>Miradouro</desc>
+    <url>https://www.geocaching.com/seek/wpt.aspx?WID=acc1a17d-856a-4c08-ad28-af466b0c86ee</url>
+    <urlname>Miradouro</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+</gpx>
